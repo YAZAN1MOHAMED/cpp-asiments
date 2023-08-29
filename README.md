@@ -1,2 +1,2 @@
-# cpp-asiments
-some assignments from elzero web school course 
+# cpp-assignments
+some assignments from elzero web school course.
